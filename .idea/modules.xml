@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kali_Present.iml" filepath="$PROJECT_DIR$/.idea/Kali_Present.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Kali_Present_Server/.idea/Kali_Present_Server.iml" filepath="$PROJECT_DIR$/../Kali_Present_Server/.idea/Kali_Present_Server.iml" />
+    </modules>
+  </component>
+</project>
